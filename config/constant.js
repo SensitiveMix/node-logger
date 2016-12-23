@@ -1,7 +1,6 @@
 const constant = {
-	logInfo: true,
-    logLevel: 'debug'
+  logInfo: true,
+  logLevel: 'debug'
 }
-
 
 module.exports = constant

@@ -6,8 +6,12 @@
   "repository": "git@github.com:sunNode/node-logger.git",
   "author": "JACK SUN",
   "license": "MIT",
+  "scripts": {
+    "test": "standard --fix && node example.js"
+  },
   "dependencies": {
     "moment": "^2.17.1",
+    "standard": "^8.6.0",
     "winston": "^2.3.0"
   }
 }

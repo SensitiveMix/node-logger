@@ -7,6 +7,7 @@
 /_/ /_/\____/\__,_/\___/     /_/\____/\__, /\__, /\___/_/     
                                      /____//____/                         
 ```
+[![Standard - JavaScript Style Guide](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
 
 A module for taking advantage of the built-in logger module in node v0.5 & v0.7 and define logger in project.
 
