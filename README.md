@@ -13,7 +13,7 @@ A module for taking advantage of the built-in logger module in node v0.5 & v0.7 
 
 ## Installation
 ```bash
-yarn add https://github.com/sunNode/node-logger
+yarn add https://github.com/SensitiveMix/node-logger
 ```
 
 
