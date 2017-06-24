@@ -12,6 +12,8 @@
 A module for taking advantage of the built-in logger module in node v0.5 & v0.7 and define logger in project.
 
 ## Installation
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/SensitiveMix/node-logger.svg)](https://greenkeeper.io/)
 ```bash
 yarn add https://github.com/SensitiveMix/node-logger
 ```
